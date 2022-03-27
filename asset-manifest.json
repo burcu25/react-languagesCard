@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-languagesCard/static/css/main.c35fe75e.css",
+    "main.js": "/react-languagesCard/static/js/main.dd6d7ebd.js",
+    "static/media/php.png": "/react-languagesCard/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/react-languagesCard/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/react-languagesCard/static/media/go.a0b3b49ab90e11213e6d.png",
+    "static/media/css.png": "/react-languagesCard/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/react-languagesCard/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/react-languagesCard/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/java.png": "/react-languagesCard/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/react-languagesCard/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/react-languagesCard/index.html",
+    "main.c35fe75e.css.map": "/react-languagesCard/static/css/main.c35fe75e.css.map",
+    "main.dd6d7ebd.js.map": "/react-languagesCard/static/js/main.dd6d7ebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c35fe75e.css",
+    "static/js/main.dd6d7ebd.js"
+  ]
+}
